@@ -1,5 +1,7 @@
 # Using multiple databases with the official PostgreSQL Docker image
 
+**IMPORTANT:** This is a fork of an [original repository](https://github.com/mrts/docker-postgresql-multiple-databases). The only change I made here is to update the PostgreSQL version to v12.
+
 The [official recommendation](https://hub.docker.com/_/postgres/) for creating
 multiple databases is as follows:
 
